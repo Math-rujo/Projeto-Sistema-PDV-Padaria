@@ -1,0 +1,23 @@
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# Compilação
+/build/
+/dist/
+
+# Arquivos compilados
+*.class
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Configurações do sistema
+.DS_Store
+Thumbs.db
