@@ -4,7 +4,7 @@ Sistema de Ponto de Venda (PDV) desenvolvido para uma padaria, utilizando Java, 
 
 ##  Demonstração
 
-![Tela de Login](Imagens/Video_pdv)
+![Video Demonstração](Imagens/Video_pdv.gif)
 
 ##  Tecnologias utilizadas
 
