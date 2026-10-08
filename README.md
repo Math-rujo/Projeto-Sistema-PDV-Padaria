@@ -1,6 +1,6 @@
 #  Sistema PDV - Padaria
 
-Sistema de Ponto de Venda (PDV) desenvolvido para uma padaria, utilizando Java, Swing e PostgreSQL. O projeto foi desenvolvido com foco no estudo de Programação Orientada a Objetos, persistência de dados e desenvolvimento de aplicações desktop.
+Sistema de Ponto de Venda (PDV) desenvolvido para uma padaria, utilizando Java, Swing e PostgreSQL. O projeto foi desenvolvido com foco no estudo de Programação Orientada a Objetos, persistência de dados e desenvolvimento de aplicações desktop. O desenvolvimento também possibilitou a aplicação de conceitos relacionados à organização de código, operações CRUD, controle de transações e segurança de senhas.
 
 ##  Demonstração
 
@@ -141,3 +141,9 @@ Além disso, o projeto busca simular um cenário de uso real de um sistema de po
 
 ```bash
 git clone https://github.com/Math-rujo/Projeto-Sistema-PDV-Padaria.git
+```
+2. Abra o projeto `PRJ_PDV_Padaria` no NetBeans;
+3. Verifique se as bibliotecas necessárias estão adicionadas ao projeto;
+4. Configure as variáveis de ambiente do banco de dados;
+5. Execute a classe principal da aplicação;
+6. Utilize as credenciais de um funcionário cadastrado no banco para acessar o sistema.
